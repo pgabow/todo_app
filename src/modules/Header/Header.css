@@ -1,0 +1,18 @@
+h1, h2 {
+   font-size: 20px;
+}
+h4 {
+   font-size: 16px;
+}
+.header {
+   margin-top: 20px;
+   display:flex;
+   flex-direction: row;
+   /* justify-content: space-between; */
+   align-items: center;
+   /* border-bottom: 1px solid rgb(206, 204, 204); */
+}
+.header-logo {
+   padding-right: 30px;
+   opacity: 0.2;
+}

@@ -1,0 +1,38 @@
+.todoItem {
+   font-size: 16px;
+}
+.cross {
+   font-size: 12px;
+}
+.checkmark {
+   font-size: 14px;
+}
+.list-numbered {
+   font-size: 18px;
+   border: none;
+   background-color: #fff;
+   cursor: pointer;
+}
+.todo-delete {
+   display: inline-block;
+   margin-left: 10px;
+   padding: 5px 5px ;
+   cursor: pointer;
+}
+.todo_wrapp {
+   padding: 12px 5px;
+   display: inline-block;
+   cursor: pointer;
+}
+.todo-input__wrapp {
+   margin-top: 20px;
+   margin-left: 10px;
+   width: 100%;
+}
+.todo-input {
+   width: 600px;
+   padding:15px;
+   border:0;
+   border-radius: 4px;
+   box-shadow:0 0 5px 4px rgba(0, 0, 0, 0.06);
+}
