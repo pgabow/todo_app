@@ -1,6 +1,6 @@
-#Simple ToDo app
+## Simple ToDo app
 
-#React, localStorage
+## React, localStorage
 
 ### `npm start`
 
